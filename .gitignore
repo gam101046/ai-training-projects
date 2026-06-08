@@ -1,0 +1,2 @@
+*.safetensors
+/fine_tune_convnext
